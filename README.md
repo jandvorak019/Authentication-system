@@ -26,3 +26,5 @@ Jan Dvořák ©2022
 #### Credit
 
 https://github.com/Tariqu/database_connection_php.git
+
+https://www.proy.info/create-a-wordpress-admin-user-via-mysql-database-using-phpmyadmin/
