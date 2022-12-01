@@ -2,13 +2,6 @@
 
 
 
-/*Credit
-/*!
- * Bootstrap v3.3.7 (http://getbootstrap.com)
- * Copyright 2011-2016 Twitter, Inc.
- * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
- */
-/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
 
 
@@ -196,8 +189,7 @@ html {
     padding: 0;
   }
 
-  /*CSS source*
-  /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
+
 
   @media print {
     *,
@@ -6767,6 +6759,6 @@ html {
   }
 
 
-
-
-  /*# sourceMappingURL=bootstrap.css.map */
+/*Credit
+/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
+ /*# sourceMappingURL=bootstrap.css.map */
