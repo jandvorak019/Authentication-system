@@ -15,11 +15,8 @@ Navrhni model databáze pro autentizaci uživatele pro webovou aplikaci, databá
 
 
 
+## Instructions B
 
-
-##Instructions B
-
-Vytvořte přihlašování na webové stránce splňující následující pravidla:
 HTML 5
 Uživatelské účty v databázi (SQL i noSQL)
 Hashovaná hesla v DB.
@@ -28,6 +25,8 @@ Administrátor uvidí "něco" více než registrovaný uživatel a ten zase něc
 Po úspěšném přihlášení se zobrazí patřičné uvítání.
 Přihlášení bude perzistentní (SESSION)
 Bude možné se odhlásit.
+
+
 
 
 
