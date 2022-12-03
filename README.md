@@ -20,13 +20,3 @@ Navrhni model databáze pro autentizaci uživatele pro webovou aplikaci, databá
 
 ## Copyright 
 Jan Dvořák ©2022
-
-
-
-#### Credit
-
-https://youtu.be/Ekk_N5X1ePI
-
-https://github.com/Tariqu/database_connection_php.git
-
-https://www.proy.info/create-a-wordpress-admin-user-via-mysql-database-using-phpmyadmin/
