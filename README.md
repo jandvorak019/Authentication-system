@@ -18,12 +18,19 @@ Navrhni model databáze pro autentizaci uživatele pro webovou aplikaci, databá
 ## Instructions B
 
 HTML 5
+
 Uživatelské účty v databázi (SQL i noSQL)
+
 Hashovaná hesla v DB.
+
 Řeší se i uživatelské role (guest, registered, administrator)
+
 Administrátor uvidí "něco" více než registrovaný uživatel a ten zase něco více než nepřihlášený uživatel "guest".
+
 Po úspěšném přihlášení se zobrazí patřičné uvítání.
+
 Přihlášení bude perzistentní (SESSION)
+
 Bude možné se odhlásit.
 
 
